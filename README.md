@@ -1,5 +1,5 @@
-![shopping](https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png)" width="200" height="400" />
 # SOUQ APP
  Mobile application 
  
