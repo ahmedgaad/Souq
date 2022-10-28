@@ -1,16 +1,31 @@
-# shop_app
-
-A new Flutter project.
-
+# SOUQ APP
+ Mobile application 
+ 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## More about SOUQ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It is an environment to serve the customer by facilitating the process of 
+buying any product. Where the environment works as a 
+seller, through a mobile application .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Requirements
+
+ - Any Operating System (ie. MacOS X, Linux, Windows)
+     
+ - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+ 
+
+
+## Building From Source
+To get started you need to install flutter and then you can download the repository.
+
+
+
+## Features
+
+- Fullscreen mode
+- Cross platform (Android , iOS )
