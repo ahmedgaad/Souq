@@ -1,4 +1,6 @@
-![shopping](https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png">
+</p>
 # SOUQ APP
  Mobile application 
  
@@ -30,6 +32,4 @@ To get started you need to install flutter and then you can download the reposit
 
 - Fullscreen mode
 - Cross platform (Android , iOS )
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png">
-</p>
+
