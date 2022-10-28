@@ -1,3 +1,4 @@
+![shopping](https://user-images.githubusercontent.com/70586104/198572572-b68fd5cb-89af-4955-b47e-925e05c27f4f.png)
 # SOUQ APP
  Mobile application 
  
