@@ -34,4 +34,5 @@ To get started you need to install flutter and then you can download the reposit
 - Cross platform (Android , iOS )
 
 ## UI
-![](docs/docfx/images/MixtureOpen.gif)
+![onBoarding](https://user-images.githubusercontent.com/70586104/199234297-3b34212c-7256-4b0b-8304-00f822f365ae.gif)
+
