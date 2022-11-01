@@ -39,3 +39,6 @@ To get started you need to install flutter and then you can download the reposit
 
 ### Login Screen
 ![login](https://user-images.githubusercontent.com/70586104/199240342-00ebe64e-42a4-4c3d-9512-e1672e6c395f.gif)
+
+### Register Screen
+![register](https://user-images.githubusercontent.com/70586104/199243694-5ee4e84d-87c1-4958-bd0e-566e990d8700.gif)
