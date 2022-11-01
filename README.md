@@ -34,3 +34,9 @@ To get started you need to install flutter and then you can download the reposit
 - Cross platform (Android , iOS )
 
 ## UI
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70586104/199232111-c268f219-eb79-4627-b5b1-6dacd4411cac.mp4">
+</p>
+
+
+
