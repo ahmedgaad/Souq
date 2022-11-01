@@ -33,3 +33,4 @@ To get started you need to install flutter and then you can download the reposit
 - Fullscreen mode
 - Cross platform (Android , iOS )
 
+## UI
