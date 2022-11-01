@@ -22,9 +22,9 @@ class ShopLayout extends StatelessWidget {
         return Scaffold(
           appBar: AppBar(
             title: Padding(
-              padding:  EdgeInsets.all(15.0.w),
+              padding:  EdgeInsets.all(10.0.w),
               child: Text(
-                'Salla',
+                'Souq',
               ),
             ),
             actions: [

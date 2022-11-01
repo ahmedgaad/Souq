@@ -11,7 +11,7 @@ import 'layout/shop_layout/cubit/cubit.dart';
 import 'modules/on_boarding/onboarding_screen.dart';
 import '../../layout/shop_layout/shop_layout.dart';
 import 'modules/login/shop_login_screen.dart';
-import 'shared/styles/themes.dart';
+import 'shared/styles/themes_manager.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main() async {

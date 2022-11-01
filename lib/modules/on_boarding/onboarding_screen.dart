@@ -2,11 +2,13 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:shop_app/shared/styles/color_manager.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import '../../shared/components/components.dart';
 import '../../shared/network/local/cache_helper.dart';
 import '../../shared/styles/colors.dart';
 import '../login/shop_login_screen.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class BoardingModel {
   final String image;
@@ -55,7 +57,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
     return SafeArea(
       child: Scaffold(
           body: Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(12.0),
             child: Column(
               children: [
                 Align(
@@ -102,7 +104,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                       SmoothPageIndicator(
                           controller: _pageController,
                           effect: ExpandingDotsEffect(
-                            dotColor: Colors.grey,
+                            dotColor: ColorManager.lightPurple,
                             activeDotColor: defaultColor,
                             dotHeight: 10.0.h,
                             dotWidth: 30.0.w,
